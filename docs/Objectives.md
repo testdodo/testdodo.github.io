@@ -16,5 +16,4 @@ Sytle choices:
 -_Italic_
 -`Code`
 
-[Link](https://testdodo.github.io) and ![Image](src)
 ```

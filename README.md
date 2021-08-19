@@ -13,11 +13,11 @@ While there are a lot of good resources on the internet, there are also a lot of
 ## Resources
 - [Linqpad](https://www.linqpad.net/)
 - [VS Code](https://code.visualstudio.com/)
-- [Test T SQL] (https://tsqlt.org/)
-- [xUnit] (https://xunit.net/)
-- [Command Line Reference] (https://ss64.com/)
-- [Learn] (https://docs.microsoft.com/en-us/learn/)
-- [Exercises] (https://exercism.io/tracks/csharp)
+- [Test T SQL](https://tsqlt.org/)
+- [xUnit](https://xunit.net/)
+- [Command Line Reference](https://ss64.com/)
+- [Learn](https://docs.microsoft.com/en-us/learn/)
+- [Exercises](https://exercism.io/tracks/csharp)
 
 
 ## Environments & Dependencies

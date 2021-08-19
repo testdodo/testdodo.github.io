@@ -1,4 +1,4 @@
-## Goals
+## Objectives
 ```markdown
 Syntax highlighted code block
 #  Understand how a computer works and what it does.

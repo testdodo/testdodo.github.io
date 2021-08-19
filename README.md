@@ -9,6 +9,7 @@ While there are a lot of good resources on the internet, there are also a lot of
 -This project was started as test on 19-Aug-2021.  
 -It will eventually move to its own home.
 -Notes accompany each section based on teachings in modern CS curricula.  You can pay for a degree but you probably don't have to.
+```
 ## Resources
 - [Linqpad](https://www.linqpad.net/)
 - [VS Code](https://code.visualstudio.com/)
@@ -18,7 +19,7 @@ While there are a lot of good resources on the internet, there are also a lot of
 - [Learn] (https://docs.microsoft.com/en-us/learn/)
 - [Exercises] (https://exercism.io/tracks/csharp)
 
-```
+
 ## Environments & Dependencies
 You can build high quality software with a text editor.  You do not need anything else.
 

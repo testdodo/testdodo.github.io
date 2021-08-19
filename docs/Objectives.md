@@ -1,11 +1,11 @@
 ## Objectives
 ```markdown
 - [ ] Computer Concepts
-- [_] Networks
+- [ ] Networks
 - [ ] Firewalls/Proxy
 - [ ] Pulling Cables vs Wifi 
-- [_] Operating Systems
-- [_] Data Structures
+- [ ] Operating Systems
+- [ ] Data Structures
 - [ ] Algorithms
 - [ ] N-Tier Systems
 - [ ] Message Queues

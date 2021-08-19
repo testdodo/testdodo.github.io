@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to testdodo
 
-You can use the [editor on GitHub](https://github.com/testdodo/testdodo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this site to learn about testing your software.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

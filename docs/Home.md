@@ -1,6 +1,6 @@
 ## Home
 ```markdown
-1. Navigation Test 1
-2. Goals are currently 2
+1. Open up your terminal.
+2. Navigate to any folder you want to work in.
+3. Get started.
 ```
-### Testing markdown navigation.  Currently out of order. 

@@ -1,3 +1,12 @@
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+---
+
+## UI Components
+
 ## Welcome to testdodo
 
 You can use this site to learn about testing your software.

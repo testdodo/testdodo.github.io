@@ -1,12 +1,3 @@
----
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
----
-
-## UI Components
-
 ## Welcome to testdodo
 
 You can use this site to learn about testing your software.
@@ -49,6 +40,11 @@ For more Markdown details see [GitHub Flavored Markdown](https://guides.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/testdodo/testdodo.github.io/settings/pages). This site uses a remote themd (Just the Docs.)
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+---
 
-Having trouble with Pages?Email me at jasonfetzer@outlook.com and I’ll help you sort it out.
+## UI Components

@@ -10,14 +10,14 @@
 - [ ] Data Warehouses
 - [ ] Data Analysis
 - [ ] Testing
-
+```
 1. Windows
 2. Linux
 
-Sytle choices:
+Style choices:
 
--**Bold**
--_Italic_
--`Code`
+**Bold**
+_Italic_
+`Code`
 
-```
+

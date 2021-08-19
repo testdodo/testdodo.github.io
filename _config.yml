@@ -1,4 +1,6 @@
 title: "test dodo"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
 search_enabled: true
+url: "//testdodo.github.io"
+permalink: pretty
+

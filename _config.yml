@@ -1,4 +1,4 @@
-logo: "//images/just-the-docs.png"
+logo: "/images/dodobird.png"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 url: "//testdodo.github.io"

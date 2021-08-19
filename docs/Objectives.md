@@ -1,4 +1,4 @@
-## Goals
+## Objectives
 ```markdown
 Syntax highlighted code block
 #  Understand how a computer works and what it does.
@@ -16,5 +16,4 @@ Sytle choices:
 -_Italic_
 -`Code`
 
-[Link](https://testdodo.github.io) and ![Image](src)
 ```

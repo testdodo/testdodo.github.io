@@ -1,11 +1,15 @@
 ## Objectives
 ```markdown
-Syntax highlighted code block
-#  Understand how a computer works and what it does.
-## Understand how to document your work.
-## Understand CS topics in an active learning environment.
-- Operating Systems
-- Networks
+- [ ] Computer Concepts
+- [_] Networks
+- [_] Operating Systems
+- [_] Data Structures
+- [ ] Algorithms
+- [ ] N-Tier Systems
+- [ ] Databases
+- [ ] Data Warehouses
+- [ ] Data Analysis
+- [ ] Testing
 
 1. Windows
 2. Linux

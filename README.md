@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Goals
 ```markdown
 Syntax highlighted code block
-# Header 1
+# Change Header 1 adjustment
 ## Header 2
 ### Header 3
 - Bulleted

@@ -1,6 +1,12 @@
-title: "test dodo"
+logo: "/images/dodobird.png"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 url: "//testdodo.github.io"
 permalink: pretty
 heading_anchors: true
+
+---
+layout: default
+title: Customization
+nav_order: 4
+---

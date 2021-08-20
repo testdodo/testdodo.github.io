@@ -3,7 +3,7 @@
 - [ ] Computer Concepts
 - [ ] Networks
 - [ ] Firewalls/Proxy
-- [ ] Pulling Cables vs Wifi 
+- [ ] Pulling Cables vs Wireless Systems 
 - [ ] Operating Systems
 - [ ] Data Structures
 - [ ] Algorithms
@@ -15,6 +15,9 @@
 - [ ] Data Analysis
 - [ ] Testing
 - [ ] User Management
+- [ ] Compilers & Assembly
+- [ ] Combinatorial Optimization
+- [ ] Game Theory
 
 ```
 1. Windows

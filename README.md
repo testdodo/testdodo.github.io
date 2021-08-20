@@ -3,13 +3,17 @@
 You can use this site to learn about building and testing software.
 
 ## Getting Started
-```markdown
-While there are a lot of good resources on the internet, there are also a lot of bad resources on the internet.  This site is intended to make sure you do it correctly.
-# Notes
+
+While there are a lot of good resources on the internet, 
+there are also a lot of bad resources on the internet.  
+This site is intended to make sure you do it correctly.
+
+## Notes
 -This project was started as test on 19-Aug-2021.  
 -It will eventually move to its own home.
--Notes accompany each section based on teachings in modern CS curricula.  You can pay for a degree but you probably don't have to.
-```
+-Notes accompany each section based on teachings in modern CS curricula.  
+-You can pay for a degree but you probably don't have to.
+
 ## Resources
 - [Linqpad](https://www.linqpad.net/)
 - [VS Code](https://code.visualstudio.com/)

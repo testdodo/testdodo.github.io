@@ -1,7 +1,7 @@
 logo: "/images/dodobird.png"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-url: "//"
+url: "//.github.io/edit/main/docs/"
 permalink: pretty
 heading_anchors: true
 

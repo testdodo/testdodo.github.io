@@ -3,7 +3,7 @@ Understand the production data model and its structure.
 Be able to edit the data model if necessary. 
 [Objectives](testdodo.github.io/docs/Objectives.md)
 #----
-[a link](https://testdodo.github.io/docs/Objectives)
+[a link](docs/Objectives)
 
 ### System
 In general, a data model is used to structure a real-world "something" into data that can be stored, processed, and analyzed.  Wikipedia says a data model is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.  

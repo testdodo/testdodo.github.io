@@ -2,6 +2,7 @@
 Understand the production data model and its structure.
 Be able to edit the data model if necessary. 
 [Objectives](testdodo.github.io/docs/Objectives.md)
+\hat{\theta}
 #----
 [a link](./docs/Objectives.md)
 
